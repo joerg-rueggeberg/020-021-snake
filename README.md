@@ -6,3 +6,5 @@
 Learned:
 - Screen setup
 - Keypress movement
+- Class inheritance
+- Slicing lists and tuples
